@@ -4,16 +4,19 @@ You Can Directly Share Any Private Files Just By Encrypting It Through Our Very 
 
 ## What Is Data Exchange?
 
-Data Exchange doesn't mean that it must be very High level data sharing it can bue also at low level
+Data Exchange doesn't mean that it must be very High level data sharing it can also be at low level
 For Eg- Sharing Private photos videos and also confidential documents.
 
 No One Can open or read them not even AYSOAT.  
 ```markdown
-Syntax highlighted code block
+##Steps To Do That 
 
-# Header 1
-## Header 2
-### Header 3
+### Step 1
+  Clone or download this repository (SecureDataxChange)
+### Step 2
+  Open The Folder 📂 Now You Can Find SAome Items There You Go With Set_Me_Up_First.exe And Setup The Things... We Know That You Can Do This steps
+### Step 3
+  Now You Are Setup And Ready To Share Files
 
 - Bulleted
 - List
