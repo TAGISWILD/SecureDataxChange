@@ -27,9 +27,10 @@ Step 3
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://ibb.co/BPtwxyW)
 ```
 
 ### Support or Contact
 
-You Can [Email](mailto: aysoatglobal@gmail.com) us here
+You Can Email us aysoatglobal@gmail.com here.
+
