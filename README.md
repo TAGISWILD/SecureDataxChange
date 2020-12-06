@@ -9,7 +9,7 @@ For Eg- Sharing Private photos videos and also confidential documents.
 
 No One Can open or read them not even AYSOAT.  
 ```markdown
-##Steps To Do That 
+Steps To Do That 
 
 Step 1
   Clone or download this repository (SecureDataxChange)
