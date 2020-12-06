@@ -27,7 +27,7 @@ Step 3
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://ibb.co/BPtwxyW)
+[Link](url) and [Image](https://ibb.co/BPtwxyW)
 ```
 
 ### Support or Contact
