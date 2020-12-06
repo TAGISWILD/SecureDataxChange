@@ -1,11 +1,13 @@
-## Welcome to SecureDataxChange 
+# Welcome to SecureDataxChange 
 
-You Can Directly Share Any Private Files Just By Encrypting It Through Our Very Free Software.
+You Can Directly Share Any Private Files Just By Encrypting It Through Our Very Free And Simple Software.
 
-### Markdown
+## What Is Data Exchange?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data Exchange doesn't mean that it must be very High level data sharing it can bue also at low level
+For Eg- Sharing Private photos videos and also confidential documents.
 
+No One Can open or read them not even AYSOAT.  
 ```markdown
 Syntax highlighted code block
 
