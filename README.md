@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to SecureDataxChange 
 
-You can use the [editor on GitHub](https://github.com/TAGISWILD/SecureDataxChange/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You Can Directly Share Any Private Files Just By Encrypting It Through Our Very Free Software.
 
 ### Markdown
 
