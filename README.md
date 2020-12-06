@@ -9,25 +9,19 @@ For Eg- Sharing Private photos videos and also confidential documents.
 
 No One Can open or read them not even AYSOAT.  
 
-Steps To Do That 
+## Steps To Do That 
 
-Step 1
+### Step 1
   Clone or download this repository (SecureDataxChange)
-Step 2
+![](Snaps/Step1.png)
+
+### Step 2
   Open The Folder 📂 Now You Can Find SAome Items There You Go With Set_Me_Up_First.exe And Setup The Things...
   We Know That You Can Do This steps
-Step 3
+![](Snaps/Step2.png)
+### Step 3
   Now You Are Setup And Ready To Share Files
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
-![](Snaps/Step1.png)
+![](Snaps/Step3.png)
 
 
 ### Support or Contact
