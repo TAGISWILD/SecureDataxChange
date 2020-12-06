@@ -1,6 +1,6 @@
 # Welcome to SecureDataxChange 
 
-You Can Directly Share Any Private Files Just By Encrypting It Through Our Very Free And Simple Software.
+_Your One Stop Destination For Exchanging Data Securely_
 
 ## What Is Data Exchange?
 
