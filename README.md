@@ -18,10 +18,11 @@ No One Can open or read them not even AYSOAT.
 ### Step 2
   Open The Folder 📂 Now You Can Find SAome Items There You Go With Set_Me_Up_First.exe And Setup The Things...
   We Know That You Can Do This steps
-![](Snaps/Step2.png)
+![](Snaps/step2.png)
+
 ### Step 3
   Now You Are Setup And Ready To Share Files
-![](Snaps/Step3.png)
+![](Snaps/step3.png)
 
 
 ### Support or Contact
