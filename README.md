@@ -26,9 +26,9 @@ Step 3
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-![](Snaps/Step1.png)
 ```
+![](Snaps/Step1.png)
+
 
 ### Support or Contact
 
