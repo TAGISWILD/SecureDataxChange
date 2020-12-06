@@ -32,4 +32,4 @@ Step 3
 
 ### Support or Contact
 
-You Can Contact us At [Email](mailto:aysoatglobal@gmail.com)
+You Can [Email](mailto: aysoatglobal@gmail.com) us here
