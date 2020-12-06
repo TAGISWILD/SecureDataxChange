@@ -11,11 +11,11 @@ No One Can open or read them not even AYSOAT.
 ```markdown
 ##Steps To Do That 
 
-### Step 1
+Step 1
   Clone or download this repository (SecureDataxChange)
-### Step 2
+Step 2
   Open The Folder 📂 Now You Can Find SAome Items There You Go With Set_Me_Up_First.exe And Setup The Things... We Know That You Can Do This steps
-### Step 3
+Step 3
   Now You Are Setup And Ready To Share Files
 
 - Bulleted
