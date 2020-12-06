@@ -27,7 +27,7 @@ Step 3
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](.img/Screenshot%20(242).png)
+![](Snaps/Step1.png)
 ```
 
 ### Support or Contact
