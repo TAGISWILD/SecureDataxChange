@@ -27,7 +27,7 @@ Step 3
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](.img/Screenshot (242).png)
+![Image](.img/Screenshot%20(242).png)
 ```
 
 ### Support or Contact
