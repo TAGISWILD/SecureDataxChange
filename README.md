@@ -13,16 +13,16 @@ No One Can open or read them not even AYSOAT.
 
 ### Step 1
   Clone or download this repository (SecureDataxChange)
-![](Snaps/Step1.png)
+![](Snaps/STEP1.png)
 
 ### Step 2
   Open The Folder 📂 Now You Can Find SAome Items There You Go With Set_Me_Up_First.exe And Setup The Things...
   We Know That You Can Do This steps
-![](Snaps/step2.png)
+![](Snaps/STEP2.png)
 
 ### Step 3
   Now You Are Setup And Ready To Share Files
-![](Snaps/step3.png)
+![](Snaps/STEP3.png)
 
 
 ### Support or Contact
